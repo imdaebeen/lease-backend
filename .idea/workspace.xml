@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991c6483-f0d4-4db5-af70-8843277aced9" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;54c586a1a7101f3edd8b75368f62ca4d&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -108,7 +112,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.LeaseApplication" />
-        <item itemvalue="Application.LeaseApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +126,13 @@
       <workItem from="1744604142070" duration="10318000" />
       <workItem from="1744671809683" duration="1013000" />
       <workItem from="1744673247265" duration="335000" />
+      <workItem from="1751329468625" duration="614000" />
+      <workItem from="1751330098414" duration="520000" />
+      <workItem from="1751330629300" duration="602000" />
+      <workItem from="1751350679760" duration="606000" />
+      <workItem from="1751354334526" duration="2710000" />
+      <workItem from="1751412392378" duration="5025000" />
+      <workItem from="1751500727092" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1744672875898</created>
